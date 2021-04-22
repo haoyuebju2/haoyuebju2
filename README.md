@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Haoyue Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoyuebju2&layout=compact&show_icons=true&theme=radical)](https://github.com/haoyuebju2/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haoyuebju2&repo=autotrader](https://github.com/haoyuebju2/autotrader)
+
 
 [![Haoyue Chen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/haoyuebju2/github-readme-stats)
 
