@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](http://antzuhl.cn:4000/get/@haoyuebju2.readme)
 [![Haoyue Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoyuebju2&layout=compact&show_icons=true&theme=radical)](https://github.com/haoyuebju2/github-readme-stats)
 
 
