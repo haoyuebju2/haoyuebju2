@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=haoyuebju2.readme)
 
 # My Phone
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Xiaomi-10pro-f5010c?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.apple.com/)
 
 # Programming Language
 [![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](https://reactjs.org/)
