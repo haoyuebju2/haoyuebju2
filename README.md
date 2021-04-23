@@ -25,12 +25,15 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=haoyuebju2.readme)
 
-# My Phone
+### My Phone
 [![](https://img.shields.io/badge/Xiaomi-10pro-f5010c?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.apple.com/)
 
-# Programming Language
+### Programming Language
 [![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=f00000)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java&logoColor=fbbbbb)](https://reactjs.org/)
+
+### game 
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profile/76561198210274864)
 
 
