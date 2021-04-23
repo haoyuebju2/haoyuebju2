@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=haoyuebju2.readme)
 # 程序语言
-[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=c++&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=f00000)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-C#-007396?style=flat-square&logo=c#&logoColor=faaaaa)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-C#-007396?style=flat-square&logo=C#&logoColor=faaaaa)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java&logoColor=fbbbbb)](https://reactjs.org/)
 
 
