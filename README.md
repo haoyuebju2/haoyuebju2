@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 
 [![Haoyue Chen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/haoyuebju2/github-readme-stats)
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=haoyuebju2.readme)
-# 程序语言
+
+# My Phone
+[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.apple.com/)
+
+# Programming Language
 [![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=f00000)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-C#-007396?style=flat-square&logo=C#&logoColor=faaaaa)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java&logoColor=fbbbbb)](https://reactjs.org/)
 
 
